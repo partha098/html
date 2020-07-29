@@ -1,0 +1,36 @@
+.banner{
+	width: 100%;
+}
+.xyz{
+background: #F00;
+}
+
+.product{
+
+text-align: center;
+background: #CCC;
+padding: 10px;
+margin-bottom: 20px;
+border-radius: 15px;
+
+-webkit-box-shadow: 2px 2px 2px 2px #5E5E5E;
+box-shadow: 2px 2px 2px 2px #5E5E5E;
+
+
+
+}
+
+.product:hover{
+	-webkit-box-shadow: 5px 5px 5px 5px #424242;
+box-shadow: 5px 5px 5px 5px #424242;
+}
+
+.product img{
+    
+    width: 100%;
+}
+
+.pw{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
