@@ -21,6 +21,6 @@ jobs:
           username: ubuntu
           key: ${{ secrets.KEY }}
           source: "."
-          target: "/"
+          target: "/myfolder"
     
 
