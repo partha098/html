@@ -21,7 +21,7 @@ jobs:
           username: ubuntu
           key: ${{ secrets.MY_KEY }}
           source: "."
-          target: "/home/ubuntu/myfolder"
+          target: "/opt/lampp/htdocs"
           debug: true
     
 
